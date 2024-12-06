@@ -9,6 +9,6 @@ O objetivo deste projeto é criar a página de uma rede social que simule a expe
 ## Funcionalidades
 
 - Exibição de postagens em formato de grid com **CSS Flexbox**.
-- Seção de curtidas e comentários em cada postagem. **Atualização em breve**
-- Design responsivo que se adapta a diferentes tamanhos de tela (desktop e dispositivos móveis). **Atualização em breve**
+- Seção de curtidas e comentários em cada postagem. "**Atualização em breve**"
+- Design responsivo que se adapta a diferentes tamanhos de tela (desktop e dispositivos móveis). "**Atualização em breve**"
 - Interface intuitiva com imagens e informações de usuário.
